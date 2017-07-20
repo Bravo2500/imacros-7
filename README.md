@@ -8,15 +8,14 @@ Installez le plugin iMacros sur votre navigateur (Firefox conseillé)
 
 2EME ETAPE :
 Téléchargez les fichiers Github et placez-les dans votre dossier iMacros/macros
+   - Tutoriel de téléchargement et d'installation : https://youtu.be/EOFcyVwFC2k
 
 3EME ETAPE :
-Editez le fichier LIKEs & COMMENTs en remplaçant le commentaire "Modifier le commentaire" avec le commentaire de votre choix
-
-4EME ETAPE :
 Connectez-vous sur https://www.instagram.com/
 
-5EME ETAPE :
-Lancez la macro CHOIX_HASTAG puis choisissez le mot correspondant au hastag de votre choix (ex: food), puis attendez la fin de la macro
+Lancez la macro CHOIX_HASTAG puis choisissez le mot correspondant au hastag de votre choix (ex: food), puis attendez la fin du script.
 
-6EME ETAPE :
-Jouez et répetez la macro LIKEs & COMMENTs autant de fois que vous le voulez (minimum de 10 boucles)
+Modifiez le fichier LIKEs & COMMENTs en remplaçant le commentaire entre guillemets
+   - Tutoriel de modification et de lancement du script : https://youtu.be/6Pa_ync5o34
+
+Jouez et répetez la macro LIKEs & COMMENTs autant de fois que vous le voulez (minimum 11 fois)

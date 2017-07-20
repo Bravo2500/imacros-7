@@ -1,18 +1,17 @@
 ﻿VERSION BUILD=9030808 RECORDER=FX
 
 ' CHOIX DU HASTAG
-PROMPT "Tapez le mot correspondant au hastag de votre choix" !VAR1
+PROMPT "Tapez le hastag de votre choix" !VAR1
 
-' CHARGEMENT DES PUBLICATIONS
+' AFFICHAGE DES PHOTOS CORRESPONDANTS AU HASTAG
 TAB T=1
 URL GOTO=https://www.instagram.com/explore/tags/{{!VAR1}}/
 
-' CHARGEMENT DES PUBLICATIONS SUPPLEMENTAIRES
+' AFFICHAGE POP-UP DE LA PREMIERE PHOTO
 TAG POS=1 TYPE=A ATTR=TXT:Charger<sp>la<sp>suite
 
-
-
 ' ----
-' Guillaume MEIGNAN ©2017
+
+' Guillaume MEIGNAN © 2017
 ' Growth hacker
 ' guillaume.meignan@gmail.com
